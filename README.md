@@ -1,9 +1,11 @@
-### <h3> Hello! i'm RUIZ </h3> 
+### 
+<div align="center" dir="auto">
+<h3> Hello! i'm RUIZ </h3> 
 
 
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ruizfps&show_icons=true&theme=midnight-purple"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizfps&layout=compact&theme=midnight-purple"/>
-
+</div>
 
 <div style="display: inline_block"><br> 
 <div align="center" dir="auto">
