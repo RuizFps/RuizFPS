@@ -43,6 +43,34 @@
 </div>
 
 
+<div style="display: inline_block"><br> 
+<div align="center" dir="auto">
+
+
+<a href="https://instagram.com/ruizfps_">
+<img border="0" alt="Insta" src="https://cdn-icons-png.flaticon.com/128/1384/1384015.png" width="40" height="40">
+</a>
+<a href="https://twitter.com/RuizFps_">
+<img border="0" alt="Insta" src="https://cdn-icons-png.flaticon.com/128/4494/4494465.png" width="40" height="40">
+</a>
+<a href="https://www.tiktok.com/@ruizfps">
+<img border="0" alt="Insta" src="https://cdn-icons-png.flaticon.com/128/3116/3116491.png" width="40" height="40">
+</a>
+<a href="https://www.youtube.com/@RuizFPS">
+<img border="0" alt="Insta" src="https://cdn-icons-png.flaticon.com/128/1384/1384012.png" width="40" height="40">
+</a>
+<a href="https://www.twitch.tv/ruizfps_">
+<img border="0" alt="Insta" src="https://cdn-icons-png.flaticon.com/128/3676/3676113.png" width="40" height="40">
+</a>
+
+
+
+
+
+
+
+</div>
+
 
 
  
