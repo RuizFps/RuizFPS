@@ -18,8 +18,7 @@
 
 <img align="center" alt="Ruiz-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="center" alt="Ruiz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
+  
 <img align="center" alt="Ruiz-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
 <img align="center" alt="Ruiz-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -28,18 +27,18 @@
 
 <img align="center" alt="Ruiz-intelij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
 
-
-<!--
-
+  <!--
+  
 <img align="center" alt="Ruiz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 
 <img align="center" alt="Ruiz-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 
 <img align="center" alt="Ruiz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 
+  -->
+  
+  
 <img align="center" alt="Ruiz-lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" />
-
--->
 
   </div>
 </div>
