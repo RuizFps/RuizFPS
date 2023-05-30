@@ -4,6 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/RuizFPS)
 
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=ruizfps&show_icons=true&theme=midnight-purple"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizfps&layout=compact&theme=midnight-purple"/>
+</div>
 
 
 <div style="display: inline_block"><br> 
@@ -14,7 +16,10 @@
 
 <img align="center" alt="Ruiz-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-<img align="center" alt="Ruiz-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /
+<img align="center" alt="Ruiz-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+  
+
 
   <!--
   
