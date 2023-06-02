@@ -1,14 +1,13 @@
 ### 
 <div align="center" dir="auto">
-<h3>  Hello! i'm RUIZ </h3> 
+<h3>  hey i'm RUIZ </h3> 
 
-![Profile views](https://gpvc.arturio.dev/RuizFPS)
 
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=ruizfps&show_icons=true&theme=midnight-purple"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruizfps&layout=compact&theme=midnight-purple"/>
-</div>
+
 
 
 <div style="display: inline_block"><br> 
+</h4> Skills </h4>
 <div align="center" dir="auto">
 
 
